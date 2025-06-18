@@ -2,7 +2,7 @@
 
 ## Join in!
 
-Toca.io, is bringing together two worlds, code and no-code, and we want you to get involved.
+Toca.io, is bringing together two worlds, code and low-code, and we want you to get involved.
 
 * [Explore the training portal](https://community.toca.io/)
 * [Explore jobs at Toca](https://toca.io/careers)
